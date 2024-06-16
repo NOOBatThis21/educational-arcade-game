@@ -1,0 +1,6 @@
+.points {
+    transition: transform 0.5s ease-in-out;
+}
+.points-added {
+    transform: scale(1.5);
+}
